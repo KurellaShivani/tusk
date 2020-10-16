@@ -3,5 +3,6 @@ pasta
 pizza
 chicken
 
+beans 
 
 thank you
